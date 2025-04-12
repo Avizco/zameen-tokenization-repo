@@ -34,5 +34,5 @@ Built as part of **Module 3: Tokenization Tech Stack & Smart Contract Setup** fr
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/zameen-tokenization.git
+git clone https://github.com/yourusername/zameen-tokenization-repo.git
 cd zameen-tokenization
