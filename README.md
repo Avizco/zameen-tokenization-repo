@@ -2,7 +2,6 @@
 
 This is a complete demo project showing how to tokenize a real estate asset in Pakistan using smart contracts, backend APIs, and wallet integration.
 
-Built as part of **Module 3: Tokenization Tech Stack & Smart Contract Setup** from the course _Tokenize Pakistan – The Complete Guide to RWA Tokenization_.
 
 ---
 
